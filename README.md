@@ -13,3 +13,19 @@ Strings are a fundamental data-type. Knowing the string manipulation techniques 
 
 
 The more quickly you can memorize patterns for string manipulation, the more capacity you will have for problem solving!
+
+# LeetCode Problem Set
+
+- [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+[My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)
+- [ ] Distinct Subsequences
+- [ ] Reverse String
+- [ ] String Compression
+- [ ] Valid Parenthesis String
+- [ ] Count Binary Substrings
+- [ ] Alphabet Board Path
+- [ ] Number of Steps to Reduce a Number in Binary Representation to One
+
+
+
+
