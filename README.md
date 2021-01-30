@@ -16,9 +16,7 @@ The more quickly you can memorize patterns for string manipulation, the more cap
 
 # LeetCode Problem Set
 
-- [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-
-[My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)
+- [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)
 - [ ] Distinct Subsequences
 - [ ] Reverse String
 - [ ] String Compression
