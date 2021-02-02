@@ -26,8 +26,8 @@ The more quickly you can memorize patterns for string manipulation, the more cap
 - [ ] Number of Steps to Reduce a Number in Binary Representation to One
 
 # Techniques to solve problems using strings
-- Hashmaps & Stacks
-- Two-pointer approach
+- [Hashmaps & Stacks](https://www.youtube.com/watch?v=bPLpwR_tKgc&ab_channel=LeetcodeinJavaScript)
+- [Two-pointer approach](https://www.youtube.com/watch?v=guDU5HnLqAs)
 
 
 
