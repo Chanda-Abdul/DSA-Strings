@@ -21,7 +21,7 @@ The more quickly you can memorize patterns for string manipulation, the more cap
 - [x] [344. Reverse String](https://leetcode.com/problems/reverse-string/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/344.%20Reverse%20String.md)
 - [ ] String Compression
 - [ ] Valid Parenthesis String
-- [ ] Count Binary Substrings
+- [x] [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/*696.%20Count%20Binary%20Substrings.md)
 - [ ] Alphabet Board Path
 - [ ] Number of Steps to Reduce a Number in Binary Representation to One
 
