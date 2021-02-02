@@ -25,6 +25,10 @@ The more quickly you can memorize patterns for string manipulation, the more cap
 - [ ] Alphabet Board Path
 - [ ] Number of Steps to Reduce a Number in Binary Representation to One
 
+# Techniques to solve problems using strings
+- Hashmaps & Stacks
+- Two-pointer approach
+
 
 
 
