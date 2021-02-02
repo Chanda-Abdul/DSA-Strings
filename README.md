@@ -18,7 +18,7 @@ The more quickly you can memorize patterns for string manipulation, the more cap
 
 - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)
 - [ ] Distinct Subsequences
-- [ ] Reverse String
+- [x] [344. Reverse String] (https://leetcode.com/problems/reverse-string/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/344.%20Reverse%20String.md)
 - [ ] String Compression
 - [ ] Valid Parenthesis String
 - [ ] Count Binary Substrings
