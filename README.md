@@ -28,6 +28,8 @@ The more quickly you can memorize patterns for string manipulation, the more cap
 # Techniques to solve problems using strings
 - [Hashmaps & Stacks](https://www.youtube.com/watch?v=bPLpwR_tKgc&ab_channel=LeetcodeinJavaScript)
 - [Two-pointer approach](https://www.youtube.com/watch?v=guDU5HnLqAs)
+- Interval Balancing
+- Backtracking & Recursion
 
 
 
